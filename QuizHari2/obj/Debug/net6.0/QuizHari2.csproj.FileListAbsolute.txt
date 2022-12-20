@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\WEEK 1\QuizHari2\QuizHari2\obj\Debug\net6.0\QuizHari2.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\WEEK 1\QuizHari2\QuizHari2\obj\Debug\net6.0\QuizHari2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\WEEK 1\QuizHari2\QuizHari2\obj\Debug\net6.0\QuizHari2.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\WEEK 1\QuizHari2\QuizHari2\obj\Debug\net6.0\QuizHari2.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\WEEK 1\QuizHari2\QuizHari2\obj\Debug\net6.0\QuizHari2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WEEK 1\QuizHari2\QuizHari2\bin\Debug\net6.0\QuizHari2.exe
+C:\Users\lenovo\source\repos\WEEK 1\QuizHari2\QuizHari2\bin\Debug\net6.0\QuizHari2.deps.json
+C:\Users\lenovo\source\repos\WEEK 1\QuizHari2\QuizHari2\bin\Debug\net6.0\QuizHari2.runtimeconfig.json
+C:\Users\lenovo\source\repos\WEEK 1\QuizHari2\QuizHari2\bin\Debug\net6.0\QuizHari2.dll
+C:\Users\lenovo\source\repos\WEEK 1\QuizHari2\QuizHari2\bin\Debug\net6.0\QuizHari2.pdb
+C:\Users\lenovo\source\repos\WEEK 1\QuizHari2\QuizHari2\obj\Debug\net6.0\QuizHari2.dll
+C:\Users\lenovo\source\repos\WEEK 1\QuizHari2\QuizHari2\obj\Debug\net6.0\refint\QuizHari2.dll
+C:\Users\lenovo\source\repos\WEEK 1\QuizHari2\QuizHari2\obj\Debug\net6.0\QuizHari2.pdb
+C:\Users\lenovo\source\repos\WEEK 1\QuizHari2\QuizHari2\obj\Debug\net6.0\QuizHari2.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\WEEK 1\QuizHari2\QuizHari2\obj\Debug\net6.0\ref\QuizHari2.dll
