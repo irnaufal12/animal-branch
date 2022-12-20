@@ -8,7 +8,7 @@ namespace QuizHari2
 {
     internal class HewanDaratSapi : HewanDarat
     {
-        protected string nama = "Kambing";
+        protected string nama = "Sapi";
         public void TampilkanCiri()
         {
             Darat(nama);
